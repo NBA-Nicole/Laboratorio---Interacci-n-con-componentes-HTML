@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+/* Cursor de "manito" en lo que se puede hacer clic */
+.burger-town,
+.arroz,
+h3 {
+  cursor: pointer;
+}
